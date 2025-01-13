@@ -46,4 +46,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Contato
 - **Acadêmico:** Gustavo Oliveira ([gustavo_oliveira@aluno.fapce.edu.br](mailto:gustavo_oliveira@aluno.fapce.edu.br))
-- **Orientador:** Ermeson Silva ([ermeson.silva@fapce.edu.br](mailto:ermeson.silva@fapce.edu.br))
+- **Orientador:** Ermeson Silva <!--([ermeson.silva@fapce.edu.br](mailto:ermeson.silva@fapce.edu.br))-->
