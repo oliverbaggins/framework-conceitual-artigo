@@ -39,7 +39,6 @@ O framework proposto oferece diretrizes para a utilização de IA generativa no 
 ## Estrutura do Repositório
 - `artigo.pdf`: Artigo completo descrevendo o estudo e os resultados.
 - `framework_conceitual.pdf`: Documento detalhado sobre o framework proposto.
-- `assets/`: Recursos complementares, como gráficos e tabelas citados no artigo.
 
 ## Como Contribuir
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias no framework ou adição de casos de uso.
