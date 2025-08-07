@@ -41,7 +41,7 @@ O framework proposto oferece diretrizes para a utilização de IA generativa no 
 - `framework_conceitual.pdf`: Documento detalhado sobre o framework proposto.
 
 ## Como Contribuir
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias no framework ou adição de casos de uso.
+Sinta-se à vontade para abrir issues ou pull requests para melhorias no framework ou adição de casos de uso.
 
 ## Contato
 - **Acadêmico:** Gustavo Oliveira ([gustavo_oliveira@aluno.fapce.edu.br](mailto:gustavo_oliveira@aluno.fapce.edu.br))
